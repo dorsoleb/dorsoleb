@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dorsoleb
 - 👀 I’m interested in leetcode
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on dnd5e_python_engine
+- 💞️ I’m currently working on dnd5e_python_engine
 - 📫 How to reach me https://t.me/L0ynis
 
 <!---
