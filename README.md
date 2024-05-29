@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dorsoleb
 - 👀 I’m interested in leetcode
 - 🌱 I’m currently learning Golang
-- 💞️ I’m currently working on tarkov_trainer
+- 💞️ I’m currently working on
 - 📫 How to reach me https://t.me/L0ynis
 
 <!---
